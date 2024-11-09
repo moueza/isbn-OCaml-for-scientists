@@ -2,3 +2,6 @@
 *#*
 *.blend1
 *.o
+*.cmi
+*.cmo
+test
